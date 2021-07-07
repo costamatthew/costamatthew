@@ -1,6 +1,4 @@
-### Hi 👋, I'm Mateus Costa
-
-## Full Stack Developer
+## Hi 👋, I'm Mateus Costa a Full Stack Developer
 
 ### 📫 How to reach me
 
