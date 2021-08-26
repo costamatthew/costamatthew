@@ -25,6 +25,6 @@
 	 <img align="center" src="https://github-readme-stats.vercel.app/api?username=costamatthew&show_icons=true&line_height=27" alt="Mateus Costa - GitHub Statistics"/>
 </p>
  
-<p align="left"> 
+<p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=costamatthew&label=Profile%20views&color=0e75b6&style=flat" alt="Mateus Costa - GitHub Statistics" /> 
 </p>
