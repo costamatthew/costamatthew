@@ -7,10 +7,23 @@
 ## Languages and Tools
 
 ### Front-end
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML 5" width="75" height="75" /> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS 3" width="75" height="75" /> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="Sass" width="75" height="75" /> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="Javascript" width="75" height="75" /> <img src="https://iconape.com/wp-content/files/fh/110909/png/typescript.png" alt="Typescript" width="75" height="75" /> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-4096.png" alt="ReactJs" width="75" height="75" /><img src="https://cdn.iconscout.com/icon/free/png-256/redux-283024.png" alt="Redux" width="75" height="75" /> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="NextJs" width="75" height="75" />
+<div>
+	<img width="1.5rem" height="1rem" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+	<img width="1.5rem" height="1rem" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+	<img width="1.5rem" height="1rem" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+	<img width="1.5rem" height="1rem" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+	<img width="1.5rem" height="1rem" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+	<img width="1.5rem" height="1rem" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJs" />
+</div>
 
 ### Back-end
-<img src="https://cdn.iconscout.com/icon/free/png-256/python-3628999-3030224.png" alt="Python" width="75" height="75" /> <img src="https://spng.subpng.com/20180829/okc/kisspng-flask-python-web-framework-representational-state-flask-stickker-5b86feeb86e8a1.1534670415355737395526.jpg" alt="Flask" width="75" height="75" /> <img src="https://cdn.iconscout.com/icon/free/png-256/django-12-1175186.png" alt="Django" width="75" height="75" /> <img src="https://cdn.iconscout.com/icon/free/png-256/nodejs-2-226035.png" alt="NodeJs" width="75" height="75" />
+<div>
+	<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+	<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+	<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+	<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+	<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
+</div>
 
 
 ### Database
