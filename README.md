@@ -58,15 +58,6 @@ Full Stack Developer with 4 years of experience in designing and implementing ro
 </div>
 
 ---
-
-## 📊 GitHub Stats
-<p>
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=costamatthew&show_icons=true&locale=en&layout=compact" alt="Mateus Costa - GitHub Top Languages"/>
-</p>
-
-<p>
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=costamatthew&show_icons=true&line_height=27" alt="Mateus Costa - GitHub Stats"/>
-</p>
  
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=costamatthew&label=Profile%20views&color=0e75b6&style=flat" alt="Mateus Costa - Profile views" /> 
