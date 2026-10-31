@@ -8,7 +8,7 @@
 ---
 
 ## 🧑‍💻 About Me
-Full Stack Developer with 4 years of experience in designing and implementing robust front-end and back-end solutions. Skilled in agile methodologies, unit testing, and CI/CD pipelines. Experienced with legacy systems (ASP Classic) and SAP integrations through satellite systems. Focused on clean, efficient code and proven ability to work in multidisciplinary teams.
+Full Stack Developer with 5 years of experience in designing and implementing robust front-end and back-end solutions. Skilled in agile methodologies, unit testing, and CI/CD pipelines. Experienced with legacy systems (ASP Classic) and SAP integrations through satellite systems. Focused on clean, efficient code and proven ability to work in multidisciplinary teams.
 
 ---
 
